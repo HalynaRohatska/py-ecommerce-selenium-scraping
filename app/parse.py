@@ -16,10 +16,10 @@ HOME_URL = urljoin(BASE_URL, "test-sites/e-commerce/more/")
 
 PAGES_URL = {
     "computers": urljoin(HOME_URL, "computers/"),
-    "laptops": urljoin(HOME_URL, "computers/laptops/"),   #more btn
-    "tablets": urljoin(HOME_URL, "computers/tablets/"),   #more btn
+    "laptops": urljoin(HOME_URL, "computers/laptops/"),
+    "tablets": urljoin(HOME_URL, "computers/tablets/"),
     "phones": urljoin(HOME_URL, "phones/"),
-    "touch": urljoin(HOME_URL, "phones/touch/")    #more btn
+    "touch": urljoin(HOME_URL, "phones/touch/")
 }
 
 
